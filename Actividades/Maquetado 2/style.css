@@ -1,0 +1,68 @@
+html{
+    background-color: pink;
+}
+body{
+    width: 750px;
+    height: 750px;
+    background-color: black;
+    margin: auto;
+}
+.Banner{
+    width: 498px;
+    height: 248px;
+    background-color: red;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+   
+.Logo{
+    width: 248px;
+    height: 248px;
+    background-color: yellow;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+nav{
+    width: 750px;
+    height: 50px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.Article{
+    width: 448px;
+    height: 398px;
+    background-color: crimson;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.Aside{
+    width: 298px;
+    height: 398px;
+    background-color: cyan;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+footer{
+    width: 750px;
+    height: 50px;
+    background-color: rgb(18, 196, 187);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}

@@ -1,0 +1,141 @@
+html{
+    background-color: pink;
+}
+body{
+    width: 1000px;
+    height: 950px;
+    background-color: black;
+    margin: auto;
+}
+.box1{
+    width: 198px;
+    height: 98px;
+    background-color: red;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.box2{
+    width: 198px;
+    height: 98px;
+    background-color: #0077ff;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.box3{
+    width: 198px;
+    height: 98px;
+    background-color: greenyellow;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.box4{
+    width: 198px;
+    height: 98px;
+    background-color: aqua;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.box5{
+    width: 198px;
+    height: 98px;
+    background-color: coral;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.banner{
+    width: 798px;
+    height: 298px;
+    background-color: chocolate;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.logo{
+    width: 198px;
+    height: 98px;
+    background-color: aqua;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    
+}
+.login{
+    width: 198px;
+    height: 98px;
+    background-color: green;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.form{
+    width: 198px;
+    height: 98px;
+    background-color: yellow;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.Aside{
+    width: 198px;
+    height: 498px;
+    background-color: crimson;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.Article{
+    width: 498px;
+    height: 498px;
+    background-color: red;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.Aside2{
+    width: 298px;
+    height: 498px;
+    background-color: blue;
+    float: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+
+footer{
+    width: 998px;
+    height: 48px;
+    background-color: magenta;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
